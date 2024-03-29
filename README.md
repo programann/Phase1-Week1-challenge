@@ -9,7 +9,7 @@ DESCRIPTION
 The project consists of three javascript files:
      1.caseSwap.js file has a function which accepts a string as input and swaps the case of each character.
 
-     2.integerRange.js file has a functio that  accepts two numbers to generate an array between them.
+     2.integerRange.js file has a function that  accepts two numbers to generate an array between them.
 
      3.primeSelector.js file has a function that returns only  prime numbers in an array of numbers.
 
