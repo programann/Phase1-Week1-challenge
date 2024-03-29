@@ -13,10 +13,10 @@ The project consists of three javascript files;
 
      3.primeSelector.js file has a function that returns only  prime numbers in an array of numbers.
 
-Installation
+Installation:
     Use git clone.
 
-Installation Requirements
+Installation Requirements:
     Git hub and  Git hub account
 
 Installation Instructions:
