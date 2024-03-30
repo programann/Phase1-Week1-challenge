@@ -13,4 +13,3 @@ function primeInteger(arr){
     }
     return result;
 }
-console.log(primeInteger(number))
