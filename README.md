@@ -22,7 +22,8 @@ The project consists of three javascript files;
 ### Installation Instructions:
     Run this command in your terminal;
     ```bash
-        git clone git@github.com:programann/Phase1-Week1-challenge.git
+    git clone git@github.com:programann/Phase1-Week1-challenge.git
+
     ```
 
 
