@@ -25,6 +25,10 @@ Run this command in your terminal;
 git clone https://github.com/programann/Phase1-Week2-challenge.git
 ```
 
+### live link;
+```bash
+https://programann.github.io/Phase1-Week2-challenge/
+```
 
 
 ### Technologies Used:
