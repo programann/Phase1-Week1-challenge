@@ -1,4 +1,4 @@
-# Phase1-Week1-challenge
+# Phase1-Week2-challenge
 SDFT09 phase 1 week 2 project
 
 #### Date, 29/March/2024
