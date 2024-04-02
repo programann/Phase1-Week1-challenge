@@ -7,33 +7,33 @@ SDFT09 phase 1 week 2 project
 
 ### DESCRIPTION:
 The project consists of three javascript files;
-     1.caseSwap.js file has a function which accepts a string as input and swaps the case of each character.
+1.caseSwap.js file has a function which accepts a string as input and swaps the case of each character.
 
-     2.integerRange.js file has a function that  accepts two numbers to generate an array between them.
+2.integerRange.js file has a function that  accepts two numbers to generate an array between them.
 
-     3.primeSelector.js file has a function that returns only  prime numbers in an array of numbers.
+3.primeSelector.js file has a function that returns only  prime numbers in an array of numbers.
 
 ### Installation:
-    Use git clone.
+Use git clone.
 
 ### Installation Requirements:
-    Git hub and  Git hub account
+Git hub and  Git hub account
 
 ### Installation Instructions:
-    Run this command in your terminal;
-    ```bash
-    git clone https://github.com/programann/Phase1-Week2-challenge.git
-    ```
+Run this command in your terminal;
+```bash
+git clone https://github.com/programann/Phase1-Week2-challenge.git
+```
 
 
 
 ### Technologies Used:
-    Javascript
-    Github
+Javascript
+ Github
 
 ## License:
 
-    MIT License
+MIT License
 
 Copyright (c) 2024 programann
 
